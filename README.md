@@ -1,5 +1,6 @@
 # fuzzer.py
 Summer 2020 - Computer System Security
+
 Grant V
 
 ## Overview
