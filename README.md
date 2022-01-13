@@ -1,6 +1,6 @@
 # fuzzer.py
-# Summer 2020 - Computer System Security
-# Grant V
+Summer 2020 - Computer System Security
+Grant V
 
 ## Overview
 A Fuzzer helps software developers test code by automatically providing
